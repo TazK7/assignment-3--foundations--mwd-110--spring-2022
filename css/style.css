@@ -3,14 +3,32 @@ body{
 }
 
 h1{
-  font-family: 'Beau Rivage', cursive;
+  font-family: 'Faustina', serif;
   font-size: 64px;
   color: #FFFABA;
   text-align: center;
   margin-top: 10px;
 }
 
-h2{
+#list h2{
   font-size: 32px;
-  margin-top: 10px;
+  margin-top: 7px;
+  margin-left: 5px;
+  font-family: 'Faustina', serif;
+}
+
+ul{
+  margin-top: 5px;
+  margin-left: 5px;
+  font-family: 'Oswald', sans-serif;
+}
+
+#list{
+  background-color: antiquewhite;
+  width: 300px;
+  height: 300px;
+  border-style: solid;
+  border-color: black;
+  border-width: 10px;
+  margin-left: 10px;
 }
