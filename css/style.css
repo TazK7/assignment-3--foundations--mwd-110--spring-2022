@@ -2,11 +2,8 @@ body{
   background-image: linear-gradient(90deg,#FF1801, #9F0F00 35vw);
 }
 
-h1, h2, h3, h4, h5, h6{
-  font-family: 'Beau Rivage', cursive;
-}
-
 h1{
+  font-family: 'Beau Rivage', cursive;
   font-size: 64px;
   color: #FFFABA;
   text-align: center;
