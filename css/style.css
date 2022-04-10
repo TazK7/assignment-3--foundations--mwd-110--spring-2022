@@ -35,17 +35,33 @@ ul{
   padding-bottom: 8px;
 }
 
-#text{
+.text1{
   font-family: 'Oswald', sans-serif;
   color: #FFFABA;
   font-size: 20px;
   text-align: center;
   margin-left: 200px;
   margin-right: 200px;
+  margin-top: 15px;
 }
 
-#text h2{
+.text1 h2{
   font-family: 'Faustina', serif;
   font-size: 32px;
+}
 
+.img1{
+  border-style: solid;
+  border-width: 7px;
+  border-color: black;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+#albcov{
+  
+}
+
+footer{
+  color: #FFFABA;
 }
