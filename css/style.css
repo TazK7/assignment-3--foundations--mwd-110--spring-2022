@@ -1,5 +1,5 @@
 body{
-  background-image: linear-gradient(90deg, #FF1801, #8d0e00 75vw);
+  background-image: linear-gradient(90deg, #d41807, #80190d 60vw);
 }
 
 h1{
@@ -59,6 +59,7 @@ ul{
 }
 
 #albcov{
+  color: #FFFABA;
   
 }
 
