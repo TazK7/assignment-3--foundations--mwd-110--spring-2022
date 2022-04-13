@@ -16,4 +16,58 @@ h1 {
   display: -ms-flexbox;
   display: flex;
 }
+
+#container .list-one {
+  background-color: #ADEFD1FF;
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  padding-right: 10px;
+  padding-bottom: 102px;
+  border-style: solid;
+  border-width: 8px;
+  border-color: white;
+  color: #00203FFF;
+  line-height: 30px;
+}
+
+#container .list-one h2 {
+  font-family: "Grape Nuts", cursive;
+  font-size: 30px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+#container .list-one ul {
+  font-family: "Anek Tamil", sans-serif;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+#container .list-two {
+  background-color: #ADEFD1FF;
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  padding-bottom: 102px;
+  padding-right: 10px;
+  border-style: solid;
+  border-width: 8px;
+  border-color: white;
+  color: #00203FFF;
+  line-height: 28px;
+}
+
+#container .list-two h2 {
+  font-family: "Grape Nuts", cursive;
+  font-size: 30px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+#container .list-two ul {
+  font-family: "Anek Tamil", sans-serif;
+  margin-top: 15px;
+  margin-left: 5px;
+}
 /*# sourceMappingURL=style.css.map */
